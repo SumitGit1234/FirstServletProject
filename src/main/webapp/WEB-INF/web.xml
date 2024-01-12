@@ -10,6 +10,6 @@
 	
 	<servlet-mapping>
 		<servlet-name>myWeb</servlet-name>
-		<url-pattern>/Sumit-Jenkin</url-pattern>
+		<url-pattern>/Sumit-Jenkin-1st</url-pattern>
 	</servlet-mapping>
 </web-app>
